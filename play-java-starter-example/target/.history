@@ -1,7 +1,1 @@
 eclipse
-run
-sbt clean compile
-clean compile
-compile
-run
-exit
